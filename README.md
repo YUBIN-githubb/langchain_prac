@@ -1,1 +1,1 @@
-# langchain_prac
+모두의 AI 랭체인 연습 레포지토리
